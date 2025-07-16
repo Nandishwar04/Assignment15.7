@@ -8,7 +8,7 @@ This project contains three core sections:
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 Assignment15.7/
@@ -23,7 +23,7 @@ Assignment15.7/
 
 ---
 
-## 🚀 How to Run the Full-Stack App
+##  How to Run the Full-Stack App
 
 ### Backend Setup
 
@@ -46,7 +46,7 @@ Make sure MongoDB is running locally at `mongodb://127.0.0.1:27017`.
 
 ---
 
-## ✅ Technical Approach
+##  Technical Approach
 
 ### 1. Full-Stack Job Board (React + Node + MongoDB)
 
@@ -99,7 +99,7 @@ File: `social_media/hedamo_social.md`
 
 ---
 
-## 🧠 Tools & Stack Used
+##  Tools & Stack Used
 
 - **Languages**: JavaScript, TypeScript, HTML/CSS, Markdown
 - **Frontend**: React, React Router, Axios
@@ -109,7 +109,7 @@ File: `social_media/hedamo_social.md`
 
 ---
 
-## 📌 Submission Notes
+##  Submission Notes
 
 This project is organized, self-contained, and tested locally on:
 - Node.js v20+
@@ -119,9 +119,3 @@ This project is organized, self-contained, and tested locally on:
 
 To submit: ZIP the `Assignment15.7/` folder and upload it as required.
 
----
-
-## 👤 Author
-
-**Nandishwar Bhojanapu**  
-Assignment completed on: **16th July 2025**  
